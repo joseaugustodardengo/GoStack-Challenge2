@@ -1,5 +1,7 @@
 This is an application to store repositories in your portfolio, which will allow you to create, list, update and remove the repositories, and also allow the repositories to receive "likes".
 
+[Video explaining how the project was developed - in Portuguese](https://www.youtube.com/watch?v=beeGtGzx9eA&t=105s)
+
 ## Requirements to run the application
 
   - [Node.js](https://nodejs.org/)
